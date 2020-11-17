@@ -13,7 +13,7 @@ So, children in every country are almost immobile, to the extent that causes ser
 
 - Our system would have the knowledge of what a correct yoga pose looks like.
 
-- Using state of the art pose estimation and classification models in deap learning, our system would detect features through poses of children, and compared them with the correct poses.
+- Using state of the art pose estimation and classification models in deep learning, our system would detect features through poses of children, and compared them with the correct poses.
 
 - Bases on the comparisons, we would provide full analysis report of how well each child has performed.
 
