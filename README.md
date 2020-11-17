@@ -2,10 +2,10 @@
 
 # Problem Statement
 
-Ever since the pandemic, all educational institutes and other education systems have started functioning remotely.
-This is usually okay for short time interval, but because of the limited control over COVID 19 pandemic, these institute would be closed in the foreseeable future.
+Ever since the pandemic, all educational institutes and other educational systems have started functioning remotely.
+This is usually okay for short time interval, but because of the limited control over COVID 19 pandemic, these institute would be closed for the foreseeable future.
 
-So, children in every country are almost immobile, to the extent that causes serious health issues and diseases such as **Venous Thrombosis**, **Bedsores**, **Muscle Atrophy**, **Movement Disorders**... etc, which are highly dangerous and common diseasos among children.
+So, children in every country are almost immobile, to the extent that causes serious health issues and diseases such as **Venous Thrombosis**, **Bedsores**, **Muscle Atrophy**, **Movement Disorders**... etc, which are highly dangerous and common diseases among children. 
 
 # Solution
 
@@ -26,9 +26,9 @@ So, children in every country are almost immobile, to the extent that causes ser
 - To make the platform more engaging and charming for kids, the app would allow the kids to form their groups and then compete.
 - Based on the performance of all the members of each group, the winning group would be announced.
 
-    -> **This will also encourage team work amoung children.**
+    -> **This would also encourage team work amoung children.**
 
 - The competition could be extended over more than one day as a competition period... so each group would compete daily.
-- And the winning group will be announced after the competition period is over.
+- And the winning group would be announced after the competition period is over.
 
-    -> **This will also encourage consistency in hard work.**
+    -> **This would also encourage consistency in hard work.**
