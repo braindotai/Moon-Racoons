@@ -20,15 +20,3 @@ So, children in every country are almost immobile, to the extent that causes ser
 - And finally we'll conclude the winner of the competition.
 
 - After a certain days, our system would also provide temporal analysis of how the overall performance has improved or affected for each child.
-
-# Perks
-
-- To make the platform more engaging and charming for kids, the app would allow the kids to form their groups and then compete.
-- Based on the performance of all the members of each group, the winning group would be announced.
-
-    -> **This would also encourage team work amoung children.**
-
-- The competition could be extended over more than one day as a competition period... so each group would compete daily.
-- And the winning group would be announced after the competition period is over.
-
-    -> **This would also encourage consistency in hard work.**
