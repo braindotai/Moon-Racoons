@@ -8,7 +8,7 @@ import os
 import cv2
 import numpy as np
 import base64
-from PoseInference.core.detector import detect
+from MoonRacoons.PoseInference.core.detector import detect
 import time
 
 @api_view(['GET', 'POST'])
