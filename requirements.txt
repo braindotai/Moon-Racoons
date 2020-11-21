@@ -10,6 +10,6 @@ Pillow==8.0.1
 python-dotenv==0.15.0
 pytz==2020.4
 sqlparse==0.4.1
-torch==1.6.0+cpu
-torchvision==0.7.0+cpu
 whitenoise==5.2.0
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.6.0+cpu
