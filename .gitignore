@@ -1,3 +1,5 @@
 *.vars
 *.pyc
 __pycache__
+*.jpg
+venv

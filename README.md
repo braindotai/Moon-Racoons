@@ -20,3 +20,15 @@ So, children in every country are almost immobile, to the extent that causes ser
 - And finally we'll conclude the winner of the competition.
 
 - After a certain days, our system would also provide temporal analysis of how the overall performance has improved or affected for each child.
+
+# System Design
+
+- We'll be creating to a backend where all the computation would happen, 
+    
+    1. Running model inference on the image for predicting landmarks for poses.
+
+    2. Computing how well each pose compares to a correct one.
+    
+    3. A database which will store indivisuals accounts and progress.
+
+    3. 
