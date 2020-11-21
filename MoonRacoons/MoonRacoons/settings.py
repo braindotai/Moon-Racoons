@@ -38,7 +38,7 @@ ALLOWED_HOSTS = ['https://yogify-app.herokuapp.com/', '127.0.0.1']
 
 INSTALLED_APPS = [
     'corsheaders',
-    'PoseInference.apps.PoseinferenceConfig',
+    'MoonRacoons.PoseInference.apps.PoseinferenceConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
