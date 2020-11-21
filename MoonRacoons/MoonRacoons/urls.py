@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from PoseInference.views import InferenceView
+from MoonRacoons.PoseInference.views import InferenceView
 
 urlpatterns = [
     path('', admin.site.urls),
