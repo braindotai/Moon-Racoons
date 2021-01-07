@@ -30,5 +30,3 @@ So, children in every country are almost immobile, to the extent that causes ser
     2. Computing how well each pose compares to a correct one.
     
     3. A database which will store indivisuals accounts and progress.
-
-    3. 
